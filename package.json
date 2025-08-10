@@ -43,7 +43,7 @@
     "file-type": "^18.0.0",
     "formdata-node": "^5.0.0",
     "human-readable": "^0.2.1",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.12",
     "libphonenumber-js": "^1.10.51",
     "lodash": "^4.17.21",
     "lowdb": "^5.0.5",
